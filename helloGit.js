@@ -1,0 +1,1 @@
+const sentence = "hello world"
